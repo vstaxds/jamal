@@ -1,7 +1,5 @@
 local ip = tostring(game:HttpGet("https://api.ipify.org", true))
-if  player:IsInGroup(15692648) then
-    a = true
-    end
+local player = game.Players.LocalPlayer
  
 
 
