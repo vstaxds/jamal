@@ -22,7 +22,7 @@ local data = {
                 ['icon_url'] = "https://media.discordapp.net/attachments/1011717671697535108/1014541860145995848/unknown.png?width=129&height=129",
 
             },
-            ['description'] = "User Location:  "..""..LocalizationService:GetCountryRegionForPlayerAsync(player).."",
+            ['description'] = "User Location: ",
 
             ['type'] = "rich",
     ['fields'] = {
